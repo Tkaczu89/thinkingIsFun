@@ -1,0 +1,2 @@
+# thinkingIsFun
+SDA exercises
